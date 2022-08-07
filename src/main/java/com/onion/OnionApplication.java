@@ -1,4 +1,4 @@
-package com.onion.onion;
+package com.onion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
